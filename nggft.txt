@@ -1,0 +1,3 @@
+@echo off
+:a
+tasklist | findstr binder.bat && goto :a || start binder.bat

@@ -1,0 +1,15 @@
+@echo off
+start Message
+start crashcomp
+http://www.instructables.com/id/How-to-make-a-message-box/
+0: Normal message box
+ 1: OK and Cancel
+ 2: Abort, Retry, Ignore
+ 3: Yes, No, Cancel
+ 4: Yes and No
+ 5: Retry and Cancel
+ 16: Critical message icon 
+32: Warning query icon
+ 48: Warning message icon
+ 64: Information message icon
+ 4096: Always stay on top of the desktop

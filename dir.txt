@@ -1,0 +1,41 @@
+ Volume in drive C is OS
+ Volume Serial Number is B4B7-99A8
+
+ Directory of C:\Users\BASKAR\Desktop\Hacks
+
+30-04-2013  PM 03:05    <DIR>          .
+30-04-2013  PM 03:05    <DIR>          ..
+11-06-2013  PM 10:36    <DIR>          C,c++
+26-12-2012  PM 11:12               130 Copy.bat
+26-12-2012  PM 01:19               165 crash.bat
+25-12-2012  AM 11:00               146 crash.txt
+24-12-2012  PM 04:28                74 crashcomp.bat
+16-12-2012  PM 01:52         4,285,753 DevathaiKandaen.mp3
+11-06-2013  PM 10:50                 0 dir.txt
+11-01-2013  PM 10:37               219 dirlist.cmd
+24-12-2012  PM 01:35                 6 dt.txt
+26-12-2012  PM 10:15               100 FF.bat
+28-12-2012  PM 11:22               123 ghg.vbs
+06-01-2013  PM 12:25                28 Itself.bat
+25-12-2012  PM 11:18         7,592,982 Konji.mp3
+24-12-2012  PM 03:51               219 m.bat
+25-12-2012  AM 11:10                49 Message.vbs
+25-12-2012  PM 05:24                36 mus.bat
+26-12-2012  AM 12:07               136 nnn.txt
+25-12-2012  PM 11:19                28 nu.bat
+24-12-2012  PM 02:06                71 number.bat
+24-12-2012  PM 02:06                71 numbr.txt
+24-12-2012  PM 02:09                96 op source.txt
+24-12-2012  PM 02:07                96 op.bat
+25-12-2012  PM 11:27               168 Optional mus.txt
+12-02-2013  PM 11:36               174 Optional music.bat
+01-01-2013  PM 01:44                57 retry or cancel.vbs
+24-12-2012  PM 03:33               161 shut2.txt
+26-12-2012  PM 01:13            66,432 Siv.mp3
+11-01-2013  PM 10:26               111 sss.vbs
+25-12-2012  PM 12:07               383 Super comp cras.txt
+25-12-2012  AM 11:34                45 Super comp crash.bat
+09-05-2013  PM 04:30               152 Wlan.cpp
+22-02-2013  PM 07:00            19,283 Wlan.exe
+              31 File(s)     11,967,494 bytes
+               3 Dir(s)  13,824,831,488 bytes free
